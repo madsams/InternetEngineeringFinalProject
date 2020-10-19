@@ -1,0 +1,6 @@
+[submodule "InternetEngineeringFinalProjectBack"]
+	path = InternetEngineeringFinalProjectBack
+	url = https://github.com/madsams/InternetEngineeringFinalProjectBack.git
+[submodule "InternetEngineeringFinalProjectFront"]
+	path = InternetEngineeringFinalProjectFront
+	url = https://github.com/madsams/InternetEngineeringFinalProjectFront.git
